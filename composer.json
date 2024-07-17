@@ -1,12 +1,17 @@
 {
-    "name": "bastinald/laravel-bootstrap-components",
-    "homepage": "https://github.com/bastinald/laravel-bootstrap-components",
-    "description": "Laravel Bootstrap Blade components.",
+    "name": "mattneal/laravel-bootstrap-components",
+    "homepage": "https://github.com/mattneal-stafflink/laravel-bootstrap-components",
+    "description": "Laravel Bootstrap Blade components. A fork from Bastinald.",
     "license": "MIT",
     "authors": [
         {
             "name": "Kevin Dion",
             "email": "bastinald@icloud.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Matthew Neal",
+            "email": "matt.neal@realcoder.com.au",
             "role": "Developer"
         }
     ],
